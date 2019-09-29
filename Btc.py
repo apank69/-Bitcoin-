@@ -9,7 +9,8 @@ class Main:
 		self.detekos()
 
 	def menu(self):
-                  print("""
+banner=("""\033[1;36m
+                 
 ☜☆☞☜☆☞☜☆☞☜☆☞☜☆☞☜☆☞☜☆☞
 ☜☆☞    ꧁☆☬κɪɴɢ☬☆꧂     ☜☆☞
 ☜☆☞          of            ☜☆☞                
@@ -17,6 +18,9 @@ class Main:
 ☜☆☞☜☆☞☜☆☞☜☆☞☜☆☞☜☆☞☜☆☞
 ☜☆☞☜☆☞☜☆☞☜☆☞☜☆☞☜☆☞☜☆☞
 
+
+os.system('clear')
+print(banner)
 
 1.Star hack
 
