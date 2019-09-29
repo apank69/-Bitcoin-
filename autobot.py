@@ -2,9 +2,9 @@
 
   URL: https://ssd.coinpayu.com/user/baseinfo?lang=null
 
-  Fetch URL: https://github.com/apank69/diamondFF
+  Fetch URL: https://github.com/apank69/Btc
 
-  Push  URL: https://github.com/apank69/diamondFF
+  Push  URL: https://github.com/apank69/Btc
 
   HEAD branch: master
 
