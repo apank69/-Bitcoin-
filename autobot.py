@@ -1,3 +1,4 @@
+<remote>
 * remote origin
 
   URL: https://ssd.coinpayu.com/user/baseinfo?lang=null
