@@ -1,8 +1,7 @@
-from multiprocessing.pool import ThreadPool
+
 theme: jekyll-theme-hacker
 import os,time,sys,shutil
 import autobot.py
-import
 
 class Main:
 
