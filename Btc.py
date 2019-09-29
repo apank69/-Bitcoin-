@@ -2,7 +2,7 @@
 theme: jekyll-theme-hacker
 import os,time,sys,shutil
 import autobot.py
-
+import config.php
 class Main:
 
 	def __init__(self):
@@ -25,7 +25,7 @@ class Main:
                      pilih=int(input ('/Go :'))
 
 if pilih == 1 :
-import config.php
+
 
 def detekos(self):
 		#remove cache
