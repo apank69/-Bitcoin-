@@ -27,7 +27,7 @@ print(banner)
                      pilih=int(input ('/Go :'))
 
 if pilih == 1 :
-
+import = bot.php
 
 def detekos(self):
 		#remove cache
