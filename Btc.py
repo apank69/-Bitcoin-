@@ -1,8 +1,6 @@
 
 theme: jekyll-theme-hacker
 import os,time,sys,shutil
-import autobot.py
-import config.php
 class Main:
 
 	def __init__(self):
